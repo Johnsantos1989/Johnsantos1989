@@ -48,7 +48,6 @@ Atuo na transformação de dados financeiros e operacionais em insights estraté
 
 Aplicar estatística, machine learning e inteligência analítica para desenvolver soluções que gerem impacto real no negócio, otimizem processos e apoiem decisões estratégicas.
 
-
 ---
 
 ## 📌 Projetos em Destaque
