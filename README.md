@@ -30,9 +30,12 @@ Atuo na transformação de dados financeiros e operacionais em insights estraté
 - Power BI
 - Excel Avançado
 
-**Banco de Dados**
+## 🗄️ Banco de Dados
 - Oracle (SQL, PL/SQL)
+- Microsoft SQL Server (T-SQL)
 - Modelagem de Dados Relacional
+- Escrita e Otimização de Queries
+
 
 **ETL & Integração**
 - Pentaho
