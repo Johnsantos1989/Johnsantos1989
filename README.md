@@ -51,4 +51,4 @@ Aplicar estatística, machine learning e inteligência analítica para desenvolv
 ---
 
 ## 📌 Projetos em Destaque
-(Adicione aqui seus melhores projetos com breve descrição)
+### 🔹 [ Análise de Desempenho das Lojas do Senhor João]([LINK_DO_REPOSITORIO](https://github.com/Johnsantos1989/alura-store-analise-vendas))
