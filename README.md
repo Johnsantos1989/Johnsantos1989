@@ -1,6 +1,7 @@
 # 👋 Olá, me chamo John Lenon
 
 🚀 Sobre mim
+
 Especialista em Data Analytics & BI com +10 anos de experiência em Business Intelligence e Inteligência de Dados, com foco em Ciência de Dados aplicada a negócios.
 
 Atuo na transformação de dados empresariais — com forte atuação nas áreas financeira, contábil e comercial — em insights estratégicos, unindo visão de negócio, modelagem analítica e tomada de decisão orientada por dados.
