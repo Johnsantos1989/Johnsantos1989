@@ -21,28 +21,33 @@ Atuo na transformação de dados financeiros e operacionais em insights estraté
 
 ## 🛠️ Stack Tecnológica
 
-**Linguagens & Data Science**
-- Python (Pandas, NumPy, Scikit-learn)
+### 🐍 Linguagens
+- Python
 - SQL
-- Machine Learning
 
-**Visualização & BI**
-- Power BI
-- Excel Avançado
+### 📊 Análise e Ciência de Dados
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Plotly
 
-## 🗄️ Banco de Dados
+### 🌐 APIs & Backend
+- FastAPI
+- Requests
+
+### 🗄️ Banco de Dados
 - Oracle (SQL, PL/SQL)
 - Microsoft SQL Server (T-SQL)
+- SQLite
 - Modelagem de Dados Relacional
 - Escrita e Otimização de Queries
 
-
-## ETL e Integração
-
-- Pentaho (ETL)
+### 🔄 ETL & Integração
+- Pentaho
 - Alteryx
 - Desenvolvimento de Pipelines de Dados
-- Integração e Transformação de Dados
 
 ---
 
