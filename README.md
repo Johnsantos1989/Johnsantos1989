@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 Data Analytics & BI Specialist com +10 anos de experiência em Business Intelligence e Inteligência de Dados, com foco em Ciência de Dados aplicada a negócios.
 
-Atuo na transformação de dados financeiros e operacionais em insights estratégicos, unindo visão de negócio, modelagem analítica e tomada de decisão orientada por dados.
+Atuo na transformação de dados empresariais — com forte atuação nas áreas financeira, contábil e comercial — em insights estratégicos, unindo visão de negócio, modelagem analítica e tomada de decisão orientada por dados.
 
 🎓 Formação em Data Science – Oracle Next Education (ONE)
 
