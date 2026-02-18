@@ -37,10 +37,12 @@ Atuo na transformação de dados financeiros e operacionais em insights estraté
 - Escrita e Otimização de Queries
 
 
-**ETL & Integração**
-- Pentaho
+## ETL e Integração
+
+- Pentaho (ETL)
 - Alteryx
-- Construção de Pipelines
+- Desenvolvimento de Pipelines de Dados
+- Integração e Transformação de Dados
 
 ---
 
