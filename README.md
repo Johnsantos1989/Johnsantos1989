@@ -31,8 +31,8 @@ Atuo na transformação de dados financeiros e operacionais em insights estraté
 - Excel Avançado
 
 **Banco de Dados**
-- Oracle
-- Modelagem de Dados
+-Oracle (SQL, PL/SQL)
+- Modelagem de Dados Relacional
 
 **ETL & Integração**
 - Pentaho
