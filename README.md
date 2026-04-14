@@ -140,16 +140,16 @@ Antecipar churn e apoiar estratégias de retenção baseadas em dados.
 
 🚀 **Resumo dos Projetos**
 
-✔ Análise exploratória de dados (EDA)
-✔ Engenharia de atributos
-✔ Modelagem preditiva (Machine Learning)
-✔ Interpretação de modelos
-✔ Geração de insights estratégicos
-✔ Aplicação orientada a negócio
+* Análise exploratória de dados (EDA)
+* Engenharia de atributos
+* Modelagem preditiva (Machine Learning)
+* Interpretação de modelos
+* Geração de insights estratégicos
+* Aplicação orientada a negócio
 
 ---
 
 📫 **Contato**
 
-* LinkedIn: (adicione aqui)
-* Email: (opcional)
+* LinkedIn: www.linkedin.com/in/dadospowerbicontroladoria
+* Email: johnlenon8919@gmail.com 
