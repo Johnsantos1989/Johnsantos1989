@@ -145,5 +145,5 @@ Aplicação orientada a negócio
 
 📫 Contato
 
-LinkedIn: [www.linkedin.com/in/dadospowerbicontroladoria](http://www.linkedin.com/in/dadospowerbicontroladoria)
-Email: [johnlenon8919@gmail.com](mailto:johnlenon8919@gmail.com)
+LinkedIn: www.linkedin.com/in/dadospowerbicontroladoria 
+Email: johnlenobn8919@gmail.com 
